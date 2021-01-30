@@ -100,8 +100,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-fit: cover;
   background-attachment: fixed;
-  width: 50px;
-  height: 100px;
+  background-width: 50px;
+  background-height: 100px;
   
   position: relative;
 }
