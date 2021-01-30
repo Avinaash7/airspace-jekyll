@@ -105,8 +105,8 @@ font header .navbar-default .navbar-nav li a:hover {
   
  
 }
-.cover {
-  object-fit: cover;
+.contain {
+  object-fit: contain;
   width: 50px;
   height: 100px;
 }
